@@ -1,4 +1,4 @@
-name: Auto Update VPNine1 Subscriptions
+name: Auto Update
 
 on:
   schedule:
