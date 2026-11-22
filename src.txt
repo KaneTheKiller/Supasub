@@ -1,1 +1,4 @@
-https://raw.githubusercontent.com/akerfan1/supabase/refs/heads/main/supabase/functions/v2ray-worker/index.ts
+https://raw.githubusercontent.com/ASTRACAT2022/VPN-FREE-astra.net-V1/refs/heads/main/website/configs/raw_configs.yaml
+https://raw.githubusercontent.com/Chaos2020/wanda/refs/heads/main/lite.yaml
+https://raw.githubusercontent.com/Chaos2020/wanda/refs/heads/main/daili.yaml
+https://raw.githubusercontent.com/Chaos2020/wanda/refs/heads/main/daili2.yaml
