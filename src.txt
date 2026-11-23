@@ -1,7 +1,4 @@
 https://raw.githubusercontent.com/ASTRACAT2022/VPN-FREE-astra.net-V1/refs/heads/main/website/configs/raw_configs.yaml
-https://raw.githubusercontent.com/Chaos2020/wanda/refs/heads/main/lite.yaml
-https://raw.githubusercontent.com/Chaos2020/wanda/refs/heads/main/daili.yaml
-https://raw.githubusercontent.com/Chaos2020/wanda/refs/heads/main/daili2.yaml
 https://raw.githubusercontent.com/Choiyuk/ampn-sub/395b4cb89214320bb2ec11999b84d8d848e0988a/list_fast.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/refs/heads/main/output/all_valid_proxies.txt
 https://raw.githubusercontent.com/Choiyuk/ampn-sub/refs/heads/main/list_fast.txt
