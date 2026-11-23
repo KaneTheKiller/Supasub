@@ -1,10 +1,10 @@
+https://raw.githubusercontent.com/sakha1370/OpenRay/refs/heads/main/output_iran/tci_top100.txt
+https://raw.githubusercontent.com/sakha1370/OpenRay/refs/heads/main/output_iran/others_top100.txt
+https://raw.githubusercontent.com/sakha1370/OpenRay/refs/heads/main/output_iran/iran_top100_checked.txt
+https://raw.githubusercontent.com/sakha1370/OpenRay/refs/heads/main/output_iran/mci_top100.txt
+https://raw.githubusercontent.com/sakha1370/OpenRay/refs/heads/main/output_iran/irancell_top100.txt
+https://raw.githubusercontent.com/sakha1370/OpenRay/refs/heads/main/output_iran/iran_top100.txt
 https://raw.githubusercontent.com/ASTRACAT2022/VPN-FREE-astra.net-V1/refs/heads/main/website/configs/raw_configs.yaml
 https://raw.githubusercontent.com/Choiyuk/ampn-sub/395b4cb89214320bb2ec11999b84d8d848e0988a/list_fast.txt
-https://raw.githubusercontent.com/sakha1370/OpenRay/refs/heads/main/output/all_valid_proxies.txt
 https://raw.githubusercontent.com/Choiyuk/ampn-sub/refs/heads/main/list_fast.txt
 https://raw.githubusercontent.com/ermaozi/get_subscribe/refs/heads/main/subscribe/reachable/v2ray.txt
-https://raw.githubusercontent.com/alireza786786/V2RAY-BREACHING-THE-BARRIERS/main/sub/normal/10Dream-VpnClashFaCollector-speed_passed.txt
-https://raw.githubusercontent.com/alireza786786/V2RAY-BREACHING-THE-BARRIERS/main/sub/normal/10ium-VpnClashFaCollector-iran_ping_top10.txt
-https://raw.githubusercontent.com/alireza786786/V2RAY-BREACHING-THE-BARRIERS/main/sub/normal/10ium-VpnClashFaCollector-speed_passed.txt
-https://raw.githubusercontent.com/alireza786786/V2RAY-BREACHING-THE-BARRIERS/main/sub/normal/luxxuria-harvester-ping_tested.txt
-https://raw.githubusercontent.com/alireza786786/V2RAY-BREACHING-THE-BARRIERS/main/sub/normal/luxxuria-harvester-speed_tested.txt
