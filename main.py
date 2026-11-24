@@ -14,7 +14,7 @@ from concurrent.futures import ThreadPoolExecutor
 # ==========================================
 SRC_FILE = "src.txt"
 OUTPUT_FILE = "sub/sub"
-BRAND_NAME = "Git"
+BRAND_NAME = "Supa"
 MAX_THREADS = 50
 
 # مسیر فایل‌های دیتابیس آفلاین
