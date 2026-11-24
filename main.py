@@ -24,9 +24,8 @@ ASN_DB_PATH = "GeoLite2-ASN.mmdb"
 GEO_CACHE = {}
 # پروتکل‌های SOCKS و سایر پروتکل‌های جدید اضافه شدند
 VALID_PROTOCOLS = (
-    "vmess://", "vless://", "trojan://", "ss://", "http://", "https://", 
-    "hysteria://", "hysteria2://", "hy2://", "socks://", "socks5://", 
-    "tuic://", "wireguard://", "wg://"
+    "http://", "https://", "hysteria://", "hysteria2://", "hy2://", "socks://", "socks5://", 
+    "tuic://", "wireguard://", "wg://", "anytls://",
 )
 
 # ==========================================
