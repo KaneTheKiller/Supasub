@@ -119,6 +119,5 @@ socks5://218.52.200.62:1080#%F0%9F%87%B0%F0%9F%87%B7%20KR%20SK%20Broadband%20Co%
 https://152.69.230.221:443#%F0%9F%87%B0%F0%9F%87%B7%20KR%20Oracle%20%234%20Supa
 https://146.70.221.18:443#%F0%9F%87%B7%F0%9F%87%B8%20RS%20M247%20Europe%20SRL%20%231%20Supa
 socks5://qT46DZLv:jHsK2gqs@103.184.113.236:62000#%F0%9F%87%BB%F0%9F%87%B3%20VN%20VIETNAM%20POSTS%20A%20%231%20Supa
-anytls://0324fbc29561@a54ge.df6h451rh.xin:443?insecure=1&sni=docs.microsoft.com&fp=chrome&security=tls#%F0%9F%87%B9%F0%9F%87%BC%20TW%20Data%20Communicat%20%231%20Supa
 anytls://0324fbc29561@5641sdds.df6h451rh.xin:443?insecure=1&sni=images.ctfassets.net&fp=chrome&security=tls#%F0%9F%87%AD%F0%9F%87%B0%20HK%20HKT%20Limited%20%231%20Supa
-anytls://2902c46c8493@ibsdsf.df6h451rh.xin:443/?insecure=1&sni=docs.microsoft.com&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0%20HK%20HKT%20Limited%20%232%20Supa
+anytls://2902c46c8493@ibsdsf.df6h451rh.xin:443?security=tls&sni=docs.microsoft.com&insecure=1#%F0%9F%87%AD%F0%9F%87%B0%20HK%20HKT%20Limited%20%232%20Supa
